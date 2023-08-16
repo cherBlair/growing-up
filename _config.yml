@@ -23,14 +23,14 @@ youtube_vid: #
 
 
 # Custom Color
-primary: 2c98f0 #b72cf0
-primary_hover: 44A4F2 #9a2dc7
-color_1: 2c98f0 #b72cf0
+primary: 003d30
+primary_hover: 04b8a9 #1fa69b
+color_1: 2c98f0 
 color_2: ec5453
 color_3: f9bf3f
-color_4: a84cb8
+color_4: 095e21
 color_5: 2fa499
-color_6: 4054b2
+color_6: 2eb3bf
 
 
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
