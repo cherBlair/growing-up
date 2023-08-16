@@ -35,7 +35,7 @@ color_6: 2eb3bf
 
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
 slider_0: # 형식에 맞추어 항목 추가
-- background_url: images/slide_03.jpg
+- background_url: images/slide_03.JPG
   title: B's Footsteps
 
 
