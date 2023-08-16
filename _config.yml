@@ -1,5 +1,5 @@
 title: blair's porfolio
-name: Blair's
+name: Blair
 email: cher.blair.h@gmail.com
 description: >-
   the footsteps of a curious developer
@@ -10,7 +10,7 @@ url: "https://cherblair.github.io/portfolio.github.io/"
 
 
 # profile 이미지
-profile_image: images/about.jpg
+profile_image: images/me.jpg
 
 
 # SNS 아이디
