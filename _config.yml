@@ -1,12 +1,12 @@
-title: 제목
-name: 이름
-email: 이메일
+title: blair's porfolio
+name: Blair
+email: cher.blair.h@gmail.com
 description: >-
-  Data Scientist & A.I developer
+  the footsteps of a curious developer
 
 
 baseurl: ""
-url: "https://babycheetah.github.io"
+url: "https://cherblair.github.io/portfolio.github.io/"
 
 
 # profile 이미지
@@ -14,8 +14,8 @@ profile_image: images/about.jpg
 
 
 # SNS 아이디
-facebook_id: babycheetah
-instagram_id: babycheetah
+# facebook_id: babycheetah
+# instagram_id: babycheetah
 
 
 # Youtube vid
