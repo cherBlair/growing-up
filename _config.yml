@@ -67,7 +67,7 @@ about_introduce: >-
 about_content: >-
   설명설명
   서서설명 
-about_services: # 형식에 맞추어 항목 추가
+about_services: # 형식에 맞추어 항목 추가, css > icomoon.css 파일 참고
 - icon: icon-data
   name: Server
 - icon: icon-monitor
@@ -76,7 +76,11 @@ about_services: # 형식에 맞추어 항목 추가
   name: App
 - icon: icon-code
   name: Python
-about_box_content: 괜찮은 문구 <br>박스 색바꾸는 yml파일에 추가 <br><br><br>야물파일로 변환 <strong>의뢰</strong>의뢰
+about_box_content: 
+  괜찮은 문구 <br>박스 색바꾸는 yml파일에 추가 <br><br><br>야물파일로 변환 <strong>의뢰</strong>의뢰
+
+about_box_content_color: rgb(255, 255, 255) 
+ 
 about_box_button:
   link: #
   name: sample
