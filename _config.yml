@@ -37,6 +37,10 @@ color_6: 2eb3bf
 slider_0: # 형식에 맞추어 항목 추가
 - background_url: images/slide_03.JPG
   title: B's Footsteps
+  position: absolute
+  transform: translate( -50%, -50%) rotate(0.95turn)
+  left: 140px
+  bottom: 250px
 
 
 # slider type 1  (텍스트가 좌측 정렬된 슬라이더)
@@ -48,6 +52,10 @@ slider_1: # 형식에 맞추어 항목 추가
     아무것도 몰랐지만<br>
     무작정 따라하며 성장해온<br>
     초보 개발자 babycheetah입니다.
+  position: absolute
+  transform: translate( -50%, -50%)
+  left: 140px
+  bottom: 0px    
 
 
 # About
