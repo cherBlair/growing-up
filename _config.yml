@@ -80,7 +80,7 @@ about_box_content:
   괜찮은 문구 <br>박스 색바꾸는 yml파일에 추가 <br><br><br>야물파일로 변환 <strong>의뢰</strong>의뢰
 
 about_box_content_color: rgb(255, 255, 255) 
- 
+
 about_box_button:
   link: #
   name: sample
@@ -133,7 +133,7 @@ project_my: # 형식에 맞추어 항목 추가
   name: 딥러닝 불량품 검출(2021.04)
   description: 실패한 공모전을 대학원 기말 프로젝트를 통해 몰랐던부분을 배우고 해결하였습니다. 공장에서 만들어내는 부품의 데이터를 통해 불량품을 검출하는 프로젝트입니다. 
   detail_url: #
-  readmore_url: #
+  readmore_url: pdf/anomalydetection.pdf
 
 - background_url: images/blog-1.PNG
   animation: fadeInLeft
