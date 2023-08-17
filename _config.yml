@@ -189,6 +189,8 @@ exp_services: # 형식에 맞추어 항목 추가
   color: color-3
   icon: icon-phone3
   content: 다양한 프로젝트를 기획, 진행 해왔기에 업무에 대한 협력과 배분이 익숙합니다. 새로운 프로젝트에 도전적입니다.
+
+exp_counters_bg_img: images/img_bg_4.jpg
 exp_counters:
 - name: Online Class Sales
   count: 344
@@ -268,7 +270,7 @@ blog_list:
 contact_meta: Get in Touch
 contact_header: Contact
 contact_list:
-- title: 이런것들도 손쉽게 고칠수 있게 만들어주세요
+- title: cher.blair.h@gmail.com
   icon: icon-globe-outline
 - title: 주소
   icon: icon-map
