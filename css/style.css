@@ -290,11 +290,11 @@ figure {
         min-height: 700px;
         padding: 2.5em;
         position: relative; }
-        @media screen and (max-width: 1024px) {
+        @media screen and (max-width: 1440px) {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner {
             text-align: left; 
             display: block; } }
-        @media screen and (max-width: 1024px) {
+        @media screen and (max-width: 1440px) {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner.custom {
             text-align: left; 
             display: block;
