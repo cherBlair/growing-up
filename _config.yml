@@ -23,14 +23,15 @@ youtube_vid: #
 
 
 # Custom Color
-primary: 003d30
-primary_hover: 04b8a9 #1fa69b
+primary: 18568e
+primary_hover: D3E5F5 #1fa69b
 color_1: 2c98f0 
 color_2: ec5453
 color_3: f9bf3f
 color_4: 095e21
 color_5: 2fa499
 color_6: 2eb3bf
+color_7: 00132C 
 
 
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
@@ -45,17 +46,29 @@ slider_0: # 형식에 맞추어 항목 추가
 
 # slider type 1  (텍스트가 좌측 정렬된 슬라이더)
 slider_1: # 형식에 맞추어 항목 추가
-- background_url: images/slide_g01.png
-  title: I am<br>AI Developer
+- background_url: images/slide_b02.png
+  title: Java Web<br>Backend+<br>Developer
   subtitle: >- 
-    조금은 늦었지만<br>
-    아무것도 몰랐지만<br>
-    무작정 따라하며 성장해온<br>
-    초보 개발자 babycheetah입니다.
+    a footsteps of<br>
+    a steadily growing developer<br>
   position: absolute
   transform: translate( -50%, -50%)
   left: 140px
-  bottom: 0px    
+  bottom: 0px
+
+# slider type 3  (텍스트가 좌측 정렬된 슬라이더)
+slider_2: # 형식에 맞추어 항목 추가
+- background_url: images/Matterhorn.jpg
+  title: Technical<br>Skills
+  subtitle: >- 
+    JAVA<br>
+    Spring / JPA<br>
+    MariaDB / MySQL<br>
+    html / css / js<br>
+  position: absolute
+  #transform: translate( -50%, -50%)
+  left: 450px
+  bottom: 350px    
 
 
 # About

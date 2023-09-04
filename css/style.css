@@ -439,7 +439,7 @@ body.offcanvas {
 
 .hire {
   padding: 2em;
-  background: var(--primary-color) !important; } 
+  background: var(--color-7) !important; } 
   .hire h2 {
     line-height: 1.5; }
   .hire h3 {
