@@ -36,10 +36,15 @@ color_7: 00132C
 
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
 slider_0: # 형식에 맞추어 항목 추가
-- background_url: images/slide_03.JPG
-  title: B's Footsteps
+- background_url: images/Matterhorn.jpg
+  title: 😎
+  subtitle: >- 
+    JAVA <br>
+    Spring / JPA <br>
+    MariaDB / MySQL <br>
+    JS / css / html
   position: absolute
-  transform: translate( -50%, -50%) rotate(0.95turn)
+  transform: translate( -50%, -50%)
   left: 140px
   bottom: 250px
 
@@ -49,26 +54,29 @@ slider_1: # 형식에 맞추어 항목 추가
 - background_url: images/slide_b02.png
   title: Java Web<br>Backend+<br>Developer
   subtitle: >- 
-    a footsteps of<br>
-    a steadily growing developer<br>
+    The footsteps of a<br>
+    STEADELY growing developer<br>
   position: absolute
   transform: translate( -50%, -50%)
   left: 140px
   bottom: 0px
 
+# The secret of getting ahead is getting started.
+# JAVA <br>
+# Spring / JPA <br>
+# MariaDB / MySQL <br>
+# JS / css / html
 # slider type 3  (텍스트가 좌측 정렬된 슬라이더)
 slider_2: # 형식에 맞추어 항목 추가
 - background_url: images/Matterhorn.jpg
-  title: Technical<br>Skills
+  title: 
   subtitle: >- 
-    JAVA<br>
-    Spring / JPA<br>
-    MariaDB / MySQL<br>
-    html / css / js<br>
+    
+    
   position: absolute
-  #transform: translate( -50%, -50%)
-  left: 450px
-  bottom: 350px    
+  transform: translate( -50%, -50%)
+  left: 140px
+  bottom: 250px    
 
 
 # About

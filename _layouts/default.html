@@ -103,22 +103,6 @@
 			<section id="colorlib-hero" class="js-fullheight" data-section="home">
 				<div class="flexslider js-fullheight">
 					<ul class="slides">
-						<!-- {%- for slider in site.slider_0 -%}
-							<li style="background-image: url( {{ slider.background_url }} );">	
-								<div class="overlay"></div>
-								<div class="container-fluid">
-									<div class="row">
-										<div class="col-md-10 col-md-offset-7 col-md-pull-1 col-sm-20 col-xs-20 js-fullheight slider-text"> 
-											<div class="slider-text-inner js-fullheight">
-												<div class="desc" style= "position: {{ slider.position }}; left: {{ slider.left }}; bottom: {{ slider.bottom }}; transform: {{ slider.transform }};">
-													<h1>{{ slider.title }}</h1>	
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</li>
-                        {%- endfor -%} -->
 						{%- for slider in site.slider_1 -%}
 							<li style="background-image: url( {{ slider.background_url }} );">  <!-- 메인 두번째 슬라이드 이미지 -->
 								<div class="overlay"></div>
@@ -136,15 +120,32 @@
 								</div>
 							</li>
                         {%- endfor -%}
-						{%- for slider in site.slider_2 -%}
-							<li style="background-image: url( {{ slider.background_url }} );">  <!-- 메인 두번째 슬라이드 이미지 -->
+						<!-- {%- for slider in site.slider_0 -%}
+							<li style="background-image: url( {{ slider.background_url }} );">	
 								<div class="overlay"></div>
 								<div class="container-fluid">
 									<div class="row">
-										<div class="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
-											<div class="slider-text-inner custom">
+										<div class="col-md-10 col-md-offset-7 col-md-pull-1 col-sm-20 col-xs-20 js-fullheight slider-text"> 
+											<div class="slider-text-inner js-fullheight">
+												<div class="desc" style= "position: {{ slider.position }}; left: {{ slider.left }}; bottom: {{ slider.bottom }}; transform: {{ slider.transform }};">
+													<h1 style='color:white;'>{{ slider.title }}</h1>	
+													<h2 style='color:white;'>{{ slider.subtitle }}</h2>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</li>
+                        {%- endfor -%} -->
+						{%- for slider in site.slider_2 -%}
+							<li style="background-image: url( {{ slider.background_url }} );">  
+								<div class="overlay"></div>
+								<div class="container-fluid">
+									<div class="row">
+										<div class="col-md-10 col-md-offset-7 col-md-pull-1 col-sm-20 col-xs-20 js-fullheight slider-text">
+											<div class="slider-text-inner js-fullheight custom">
 												<div class="desc" style = "position: {{ slider.position }}; left: {{ slider.left }}; bottom: {{ slider.bottom }}; transform: {{ slider.transform }};">
-													<h1 style='color:white; margin-bottom: 30px;'>{{ slider.title }}</h1>   <!-- 메인 두번째 슬라이드 이미지의 소개말 에니메이션 효과 -->
+													<h1 style='color:white; margin-bottom: 30px;'>{{ slider.title }}</h1>   
 													<h2 style='color:white;'>{{ slider.subtitle }}</h2>
 												</div>
 											</div>
