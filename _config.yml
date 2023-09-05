@@ -301,13 +301,13 @@ contact_header: Contact
 contact_list:
 - title: cher.blair.h@gmail.com
   icon: icon-globe-outline
-- title: 주소
-  icon: icon-map
-- title: +82 10 xxxx xxxx
+# - title: 대한민국
+#   icon: icon-map
+- title: +82 10 9810 1101
   icon: icon-phone
-- title: 웹 주소
-  icon: icon-layers2
-  url: https://google.com
+# - title: 웹 주소
+#   icon: icon-layers2
+#   url: https://google.com
 contact_message: <em>연락해주셔서 감사합니다.</em> 24시간이내에 회신드리도록 하겠습니다. :)
 
 
