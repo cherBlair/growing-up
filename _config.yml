@@ -96,14 +96,15 @@ about_content: >-
  3년 동안 백엔드에서 프론트엔드, 웹에서 앱, 사이트 기획부터 개발 QA, 유지보수 등 전반적인 업무 일선에 있었습니다. <br>
  프로젝트를 도맡아 신뢰를 바탕으로 현장의 소리부터 회사 내부의 이슈들까지 모두 모아 <strong>더 나은 프로그램을 만들어 나가는 데 앞장서 나가는 개발자</strong> 입니다.
 about_services: # 형식에 맞추어 항목 추가, css > icomoon.css 파일 참고
+- icon: icon-code
+  name: Java
 - icon: icon-data
   name: Server
 - icon: icon-monitor
   name: Web
 - icon: icon-phone3
   name: App
-- icon: icon-code
-  name: Java
+
 about_box_content: 
   The secret of getting ahead is getting started.
 
