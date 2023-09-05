@@ -82,12 +82,19 @@ slider_2: # 형식에 맞추어 항목 추가
 # About
 about_meta: About Me
 about_header: >- 
-  "타자도 못치던 대학생"
+  "The secret of getting ahead is getting started."
 about_introduce: >-
-  "안녕하세요. 인공지능 전문가를 꿈꾸는 아기 개발자, 아기치타입니다."
+  "전반적인 업무 일선에서 신뢰를 바탕으로 앞장서 나가는 개발자"
 about_content: >-
-  설명설명
-  서서설명 
+ 안녕하세요. <strong>3년차 Java 개발자 김하나(Blair)</strong> 입니다.<br>
+ 저는 도전과 성취가 있는 삶을 지향합니다. <br>
+ 항상 배움에 목말라 있고, 사람들과 함께 하는 것을 좋아합니다.<br><br> 
+ 지난 3년 간 분위기 좋고 능력이 출중한 분들이 모인 작은 회사에서 개발자 커리어의 첫 발을 들여 운이 좋게도 <strong>다양한 포지션</strong>에서 많은 일들을 체득하였습니다. 
+ 저의 첫 둥지는 <strong>카카오 모빌리티의 자회사</strong>가 되어 더 큰 품에서 다양한 사람들과 협업을 할 수 있었습니다. <br>
+ <strong>Java와 Spring, JPA</strong>로 백엔드 실무를 다졌고, <strong>Javascript와 html, Ajax, css</strong>를 활용하여 프론드엔드쪽도 작업 해왔습니다. 
+ <strong>MySql</strong>에 익숙하고 <strong>Tomcat</strong> 서버 구축도 해보았으며, <strong>flutter</strong>를 사용하여 <strong>안드로이드와 iOS 채팅 앱 출시</strong> 경험도 있습니다. 
+ 3년 동안 백엔드에서 프론트엔드, 웹에서 앱, 사이트 기획부터 개발 QA, 유지보수 등 전반적인 업무 일선에 있었습니다. <br>
+ 프로젝트를 도맡아 신뢰를 바탕으로 현장의 소리부터 회사 내부의 이슈들까지 모두 모아 <strong>더 나은 프로그램을 만들어 나가는 데 앞장서 나가는 개발자</strong> 입니다.
 about_services: # 형식에 맞추어 항목 추가, css > icomoon.css 파일 참고
 - icon: icon-data
   name: Server
@@ -96,9 +103,9 @@ about_services: # 형식에 맞추어 항목 추가, css > icomoon.css 파일 �
 - icon: icon-phone3
   name: App
 - icon: icon-code
-  name: Python
+  name: Java
 about_box_content: 
-  괜찮은 문구 <br>박스 색바꾸는 yml파일에 추가 <br><br><br>야물파일로 변환 <strong>의뢰</strong>의뢰
+  The secret of getting ahead is getting started.
 
 about_box_content_color: rgb(255, 255, 255) 
 
