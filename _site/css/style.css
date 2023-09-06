@@ -468,7 +468,7 @@ body.offcanvas {
 
 .hire {
   padding: 2em;
-  background: var(--color-7) !important; } 
+  background: var(--color-5) !important; } 
   .hire h2 {
     line-height: 1.5; }
   .hire h3 {
@@ -862,6 +862,66 @@ body.offcanvas {
       background: var(--color-10); }
     .progress-bar.color-10 span {
       color: var(--color-10); }
+  .progress-bar.color-11 {
+    background: var(--color-11); }
+    .progress-bar.color-11:after {
+      background: var(--color-11); }
+    .progress-bar.color-11 span {
+      color: var(--color-11); }
+  .progress-bar.color-12 {
+    background: var(--color-12); }
+    .progress-bar.color-12:after {
+      background: var(--color-12); }
+    .progress-bar.color-12 span {
+      color: var(--color-12); }
+  .progress-bar.color-13 {
+    background: var(--color-13); }
+    .progress-bar.color-13:after {
+      background: var(--color-13); }
+    .progress-bar.color-13 span {
+      color: var(--color-13); }
+  .progress-bar.color-14 {
+    background: var(--color-14); }
+    .progress-bar.color-14:after {
+      background: var(--color-14); }
+    .progress-bar.color-14 span {
+      color: var(--color-14); }
+  .progress-bar.color-15 {
+    background: var(--color-15); }
+    .progress-bar.color-15:after {
+      background: var(--color-15); }
+    .progress-bar.color-15 span {
+      color: var(--color-15); }
+  .progress-bar.color-16 {
+    background: var(--color-16); }
+    .progress-bar.color-16:after {
+      background: var(--color-16); }
+    .progress-bar.color-16 span {
+      color: var(--color-16); }
+  .progress-bar.color-17 {
+    background: var(--color-17); }
+    .progress-bar.color-17:after {
+      background: var(--color-17); }
+    .progress-bar.color-17 span {
+      color: var(--color-17); }
+  .progress-bar.color-18 {
+    background: var(--color-18); }
+    .progress-bar.color-18:after {
+      background: var(--color-18); }
+    .progress-bar.color-18 span {
+      color: var(--color-18); }
+  .progress-bar.color-19 {
+    background: var(--color-19); }
+    .progress-bar.color-19:after {
+      background: var(--color-19); }
+    .progress-bar.color-19 span {
+      color: var(--color-19); }
+  .progress-bar.color-20 {
+    background: var(--color-20); }
+    .progress-bar.color-20:after {
+      background: var(--color-20); }
+    .progress-bar.color-20 span {
+      color: var(--color-20); }
 
 .colorlib-feature {
   text-align: left;

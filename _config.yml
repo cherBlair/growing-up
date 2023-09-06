@@ -29,22 +29,27 @@ color_1: 2c98f0
 color_2: ec5453
 color_3: f9bf3f
 color_4: 095e21
-color_5: 2fa499
-color_6: D9D2E9
-color_7: 00132C
-color_8: D9EAD3
-color_9: 2eb3bf
-color_10: fce5cd
-color_11: 674ea7 
-color_12: b45f06
-color_13: 6fa8dc 
-color_14: c2d431 
-color_15: 9e296b 
-color_16: b2c5c4 
-color_17: f2caca
-color_18: 6793bd 
-color_19: f1c232
-color_20: c6d738  
+color_5: 00132C #062F4F
+color_6: FC6472 #2c98f0 
+color_7: B8EDCF #ec5453
+color_8: EFACA3 #f9bf3f
+color_9: C3ECF0 #095e21
+color_10: ECCEB2 #2fa499
+color_11: A7F2EB #D9D2E9
+color_12: D4BA7D #00132C
+color_13: 90C9C0 #D9EAD3
+color_14: D9D4B6 #2eb3bf
+color_15: 24CCB5 #fce5cd
+color_16: FAA818 #674ea7 
+color_17: 41A30D #b45f06
+color_18: FFCE38 #6fa8dc 
+color_19: 367D7D #c2d431 
+color_20: D33502 #9e296b 
+color_21: 6EBCBC #b2c5c4 
+color_22: 37526D #f2caca
+color_23: ACCECD #6793bd 
+color_24: B7AE9D #f1c232
+color_25: 8A151B #c6d738
 
 
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
@@ -134,73 +139,73 @@ tech_header: 저는 현재 이것을 할 수 있습니다.
 tech_content: 언어는 Java를 기반으로 하고 있고, 다양한 프레임워크를 사용할 수 있습니다. 
 tech_list: # 형식에 맞추어 항목 추가
 - name: Java
-  color: color-1
+  color: color-6
   animation: fadeInLeft
   percent: 80
   mark: 80
   content: 자바 언어의 기본적인 문법에 대해 알고 있으며, 자료구조 및 알고리즘을 자바로 공부하였습니다.
 - name: Spring
-  color: color-4
+  color: color-7
   animation: fadeInRight
   percent: 70
   mark: 70
   content: 스프링 프레임 워크를 활용하여 MVC 패턴으로 다양한 요청을 처리할 수 있습니다. Model, View, Controller, Service 로직을 서비스 전반에 걸쳐 작업해왔습니다. 꾸준히 Spring 프레임워크에 대한 공부를 하고 있습니다. <br><br>
 - name: JPA
-  color: color-3
+  color: color-8
   animation: fadeInLeft
   percent: 70
   mark: 70
   content: 실무에서 반복적인 CRUD SQL을 JPA로 처리하였으며, Join, many To one의 관계 등을 다루어보았습니다.<br> JPA로 처리하지 못하는 복잡한 쿼리의 경우에는 native query를 사용하여 작업 하였습니다.
 - name: DB
-  color: color-2
+  color: color-9
   animation: fadeInRight
   percent: 70
   mark: 70
   content: 데이터를 모델링하고 테이블 설계 및 관계성 설정 등을 할 수 있습니다. 실무에서는 MariaDB를 사용하였습니다. <br><br><br><br>
 - name: MySQL
-  color: color-5
+  color: color-10
   animation: fadeInLeft
   percent: 60
   mark: 60
   content: 기본적인 CRUD query에 익숙하며 여러 테이블 조인을 통하여 필요한 데이터를 조회할 수 있습니다.   
 - name: JavaScript
-  color: color-6
+  color: color-11
   animation: fadeInRight
   percent: 70
   mark: 70
   content: Ajax, Jquery 기타 라이브러리 등을 사용하여 동적인 화면을 구성할 수 있습니다.
 - name: test
-  color: color-7
-  animation: fadeInLeft
-  percent: 70
-  mark: 70
-  content: 
-- name: test
-  color: color-8
-  animation: fadeInRight
-  percent: 70
-  mark: 70
-  content: 
-- name: test
-  color: color-9
-  animation: fadeInLeft
-  percent: 70
-  mark: 70
-  content: 
-- name: 
-  color: color-10
-  animation: fadeInRight
-  percent: 70
-  mark: 70
-  content: 
-- name: 
-  color: color-11
-  animation: fadeInLeft
-  percent: 70
-  mark: 70
-  content: 
-- name: 
   color: color-12
+  animation: fadeInLeft
+  percent: 70
+  mark: 70
+  content: 
+- name: test
+  color: color-13
+  animation: fadeInRight
+  percent: 70
+  mark: 70
+  content: 
+- name: test
+  color: color-14
+  animation: fadeInLeft
+  percent: 70
+  mark: 70
+  content: 
+- name: 
+  color: color-15
+  animation: fadeInRight
+  percent: 70
+  mark: 70
+  content: 
+- name: 
+  color: color-16
+  animation: fadeInLeft
+  percent: 70
+  mark: 70
+  content: 
+- name: 
+  color: color-17
   animation: fadeInRight
   percent: 70
   mark: 70
