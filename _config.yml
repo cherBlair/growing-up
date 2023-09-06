@@ -136,7 +136,7 @@ about_box_button:
 # Tech  skill
 tech_meta: TECH SKILLS
 tech_header: 저는 현재 이것을 할 수 있습니다.
-tech_content: 언어는 Java를 기반으로 하고 있고, 다양한 프레임워크를 사용할 수 있습니다. 
+tech_content: 언어는 Java를 기반으로 하고 있고, 다양한 프레임워크를 활용할 수 있습니다. 
 tech_list: # 형식에 맞추어 항목 추가
 - name: Java
   color: color-6
@@ -168,48 +168,60 @@ tech_list: # 형식에 맞추어 항목 추가
   percent: 60
   mark: 60
   content: 기본적인 CRUD query에 익숙하며 여러 테이블 조인을 통하여 필요한 데이터를 조회할 수 있습니다.   
-- name: JavaScript
+- name: AWS
   color: color-11
   animation: fadeInRight
-  percent: 70
-  mark: 70
-  content: Ajax, Jquery 기타 라이브러리 등을 사용하여 동적인 화면을 구성할 수 있습니다.
-- name: test
+  percent: 20
+  mark: 20
+  content: 학과에서 AWS 수업을 수강하였고 간단한 실습도 해보았습니다. 클라우드 서버의 기본적인 이론을 알고 있습니다. <br><br>
+- name: JavaScript
   color: color-12
   animation: fadeInLeft
   percent: 70
   mark: 70
-  content: 
-- name: test
+  content: Ajax, JQuery 기타 라이브러리 등을 사용하여 동적인 화면을 구성할 수 있습니다. gitHub의 ExcelJs를 활용하여 스크립트단에서 엑셀 파일을 다운로드 하는 로직을 구현하였고 프로젝트 전반에 적용한 경험이 있습니다. <br><br>
+- name: HTML
   color: color-13
   animation: fadeInRight
   percent: 70
   mark: 70
   content: 
-- name: test
+- name: Flutter
   color: color-14
   animation: fadeInLeft
   percent: 70
   mark: 70
   content: 
-- name: 
+- name: git
   color: color-15
   animation: fadeInRight
   percent: 70
   mark: 70
   content: 
-- name: 
+- name: gitLab, gitHub
   color: color-16
   animation: fadeInLeft
   percent: 70
   mark: 70
   content: 
-- name: 
+- name: jira
   color: color-17
   animation: fadeInRight
   percent: 70
   mark: 70
   content:  
+- name: slack
+  color: color-18
+  animation: fadeInRight
+  percent: 70
+  mark: 70
+  content: 
+- name: notion
+  color: color-19
+  animation: fadeInRight
+  percent: 70
+  mark: 70
+  content: 
   
 tech_desc: 앞으로 연구한것을 서비스화하기 위해서 <strong>javascript, Node JS, 리엑트, 스피링, 헤로쿠, python anywhere 및 아마존 AWS, docker</strong>등을 계속해서 조금씩 공부할 생각입니다. 
 

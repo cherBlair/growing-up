@@ -577,13 +577,13 @@
 								<div class="col-md-10 col-md-offset-1 col-md-pull-1 animate-box" data-animate-effect="fadeInRight">
 									<form id="gform" method="POST" action="">
 										<div class="form-group">
-											<input type="text" class="form-control" placeholder="성함" name="name">
+											<input type="text" class="form-control" placeholder="성함" name="name" id="name">
 										</div>
 										<div class="form-group">
-											<input type="text" class="form-control" placeholder="회신 받을 Email" name="email">
+											<input type="text" class="form-control" placeholder="회신 받을 Email" name="email" id="email">
 										</div>
 										<div class="form-group">
-											<input type="text" class="form-control" placeholder="제목" name="title">
+											<input type="text" class="form-control" placeholder="제목" name="title" id="title">
 										</div>
 										<div class="form-group">
 											<textarea name="message" id="message" cols="30" rows="7" class="form-control" placeholder="내용" ></textarea>
@@ -645,7 +645,7 @@
 	     function mailSend(){
 	      $.ajax({
 	         type : "POST",
-	         url : "https://script.google.com/macros/s/AKfycbz-frwBTGvIeei6eC125WczGVfQwFRHrCiw5veAUA/exec",
+	         url : "https://script.google.com/macros/s/AKfycbwXyVODvxgDCdsJDE_FpTK_rMkO43AvOozeW_jkVMPQA27TnU6hV17DDyZRxcTH77YCIw/exec",
 	         data : createData(),
 	         datatype:"json",
 	         success : function(data, status, xhr){
