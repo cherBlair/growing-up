@@ -833,11 +833,35 @@ body.offcanvas {
     .progress-bar.color-5 span {
       color: var(--color-5); }
   .progress-bar.color-6 {
-    background: var(--color-5); }
+    background: var(--color-6); }
     .progress-bar.color-6:after {
-      background: var(--color-5); }
+      background: var(--color-6); }
     .progress-bar.color-6 span {
-      color: var(--color-5); }
+      color: var(--color-6); }
+  .progress-bar.color-7 {
+    background: var(--color-7); }
+    .progress-bar.color-7:after {
+      background: var(--color-7); }
+    .progress-bar.color-7 span {
+      color: var(--color-7); }
+  .progress-bar.color-8 {
+    background: var(--color-8); }
+    .progress-bar.color-8:after {
+      background: var(--color-8); }
+    .progress-bar.color-8 span {
+      color: var(--color-8); }
+  .progress-bar.color-9 {
+    background: var(--color-9); }
+    .progress-bar.color-9:after {
+      background: var(--color-9); }
+    .progress-bar.color-9 span {
+      color: var(--color-9); }
+  .progress-bar.color-10 {
+    background: var(--color-10); }
+    .progress-bar.color-10:after {
+      background: var(--color-10); }
+    .progress-bar.color-10 span {
+      color: var(--color-10); }
 
 .colorlib-feature {
   text-align: left;
