@@ -342,7 +342,7 @@ exp_counters:
 #   speed: 10000
 - name: project
   count: 8
-  speed: 1000
+  speed: 100
 
 
 # Career
@@ -389,7 +389,7 @@ edu_list:
 blog_meta: self-improvement
 blog_header: BLOG AND GITHUB
 blog_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
-blog_load_more_url: #
+# blog_load_more_url: #
 blog_list:
 # - title: 
 #   subtitle: 개발 블로그 운영
