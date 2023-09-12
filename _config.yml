@@ -216,26 +216,22 @@ tech_list: # 형식에 맞추어 항목 추가
   percent: 80
   mark: 80
   content: 프로젝트 일정 관리, 이슈 공유 등의 프로그램으로 jira를 사용하였고, 이슈를 분석하여 필요한 데이터를 뽑아낼 수 있습니다. <br><br>
-- name: slack
+- name: notion
   color: color-19
   animation: fadeInRight
   percent: 80
   mark: 80
-  content: 업무 협업 툴로 slack을 사용하여 익숙합니다. <br><br>
-- name: notion
-  color: color-20
-  animation: fadeInLeft
-  percent: 80
-  mark: 80
-  content: 회사의 공유 자료를 notion으로 만들어 공유한 적이 있으며, notion을 일상에서도 활용하고 있습니다. <br><br>
-- name: notion
-  color: color-21
-  animation: fadeInRight
-  percent: 70
-  mark: 70
-  content:  
+  content: 회사의 공유 자료를 notion으로 만들어 직원들에게 공유한 적이 있으며, notion을 일상에서도 활용하고 있습니다. <br><br>
+# - name: slack
+#   color: color-20
+#   animation: fadeInLeft
+#   percent: 80
+#   mark: 80
+#   content: 업무 협업 툴로 slack을 사용하여 익숙합니다. <br><br>
+
+
   
-tech_desc: 앞으로 연구한것을 서비스화하기 위해서 <strong>javascript, Node JS, 리엑트, 스피링, 헤로쿠, python anywhere 및 아마존 AWS, docker</strong>등을 계속해서 조금씩 공부할 생각입니다. 
+tech_desc: 강점은 더 강화하고 부족한 부분은 채우기 위해 직접 부딪혀보며 성장하고 있습니다. <strong>JAVA, Spring, JPA, AWS, docker, React, nodeJS, algorithm</strong>등을 계속해서 조금씩 공부할 생각입니다. 
 
 
 # Project
