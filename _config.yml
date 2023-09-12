@@ -274,33 +274,34 @@ project_my: # 형식에 맞추어 항목 추가
 
 - background_url: images/pr_cb01.png
   animation: fadeInLeft
-  name: 
-  description: 
+  name: C-bridge SAIDA
+  description: K-CULTURE 글로벌 소통 플랫폼. <br> 추가 기능 개발 및 사이트 유지 보수 <br> 2020.10 ~ 2022.08
   # detail_url: #
   readmore_url: 
 
 - background_url: images/pr_live.png
   animation: fadeInLeft
-  name: 
-  description: 
+  name: c-bridge SAIDA On-live
+  description: 생방송 실시간 송출 서비스. <br> 라이브 스트리밍 구현 보조, 기능 추가 및 유지 보수 <br> 2020.07 ~ 2020.12 
   # detail_url: #
-  readmore_url:   
+  readmore_url: 
+ 
 
 project_team_name: ACADEMY PROJECT
 project_team: # 형식에 맞추어 항목 추가
-- background_url: images/team_project3.PNG
+- background_url: images/pr_pms.png
   animation: fadeInRight
-  name: Anti-Drone_Robot(2020.05)
-  description: 2019년 드론기술발전에 따른 드론관련 사고들이 많아지고 있음을 파악하고 그에따른 대처가 필요하다고 생각 하여 인공지능을 이용한 Anti Drone Robot 을 개발하였다
+  name: PMS system
+  description: 팀원들과 함께 Spring 프레임워크를 활용하여 MVC 패턴에 기반한 PMS system 구축
   detail_url: #
-  readmore_url: #
+  readmore_url: http://www.daum.net
 
-- background_url: images/team_project3.PNG
+- background_url: images/pr_kid.png
   animation: fadeInRight
-  name: sasdasdasdsadsagjghkukt(2020.05)
-  description: 2019년 드론기술발전에 따른 드론관련 사고들이 많아지고 있음을 파악하고 그에따른 대처가 필요하다고 생각 하여 인공지능을 이용한 Anti Drone Robot 을 개발하였다
+  name: 어린이 체험 학습 사이트
+  description: html, javascript, css, Oracle DB를 사용한 동적 화면 구현
   detail_url: #
-  readmore_url: #
+  # readmore_url: #
 
 # project_business_name: Business
 # project_business: # 형식에 맞추어 항목 추가

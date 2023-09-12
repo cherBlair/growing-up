@@ -322,8 +322,8 @@
 											<span>{{ proj.description }}</span>
 											<p class="icon">
 												<!-- <span><a href="#"><i class="icon-share3"></i></a></span> -->
-												<span><a href="{{ proj.detail_url | default: "#" }}" target="_blank" ><i class="icon-eye"></i> detail</a></span>
-												<span><a href="{{ proj.readmore_url | default: "#" }}" target="_blank"><i class="icon-file"></i> 구현 기능 상세보기</a></span>
+												<span><a href="{{ proj.detail_url | default: "#" }}" target="_blank" ><i class="icon-eye"></i> 구현 기능 상세보기</a></span>
+												{% if proj.redmore_url != null %} <span><a href="{{ proj.readmore_url | default: "#" }}" target="_blank"><i class="icon-file"></i> 구현 기능 상세보기</a></span> {% endif %}
 											</p>
 										</div>
 									</div>
