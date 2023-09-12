@@ -327,7 +327,7 @@ project_team: # 형식에 맞추어 항목 추가
 # Experience
 exp_meta: What have I achieved?
 exp_header: 저는 이런 "경험"들을 해봤습니다.
-exp_content: 현재 개발로서는 큰 도움은 되지 않을 수 있지만, 회사에서 필요로 한다면 이런 역량도 가지고 있습니다.
+# exp_content: 현재 개발로서는 큰 도움은 되지 않을 수 있지만, 회사에서 필요로 한다면 이런 역량도 가지고 있습니다.
 exp_services: # 형식에 맞추어 항목 추가
 - name: 매니지먼트
   color: color-1
