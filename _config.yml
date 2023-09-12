@@ -197,37 +197,44 @@ tech_list: # 형식에 맞추어 항목 추가
   animation: fadeInRight
   percent: 70
   mark: 70
-  content: flutter를 사용하여 채팅 앱을 만든 후 안드로이드와 iOS에 런칭하였고, 유지/보수 한 경험이 있습니다. 언어는 Dart를 사용하였고, 화면 구성부터 Apatch 서버 구축, 백엔드 로직 개발, 웹서버와의 연동 등 전반적인 작업을 도맡아 진행하였습니다. <br><br>
-- name: git
+  content: flutter를 사용하여 채팅 앱을 만든 후 안드로이드와 iOS에 런칭하였고, 유지/보수 한 경험이 있습니다. <br> 언어는 Dart를 사용하였고, 화면 구성부터 Apatch 서버 구축, 백엔드 로직 개발, 웹서버와의 연동 등 전반적인 작업을 도맡아 진행하였습니다. <br><br>
+- name: Android
   color: color-16
   animation: fadeInLeft
   percent: 70
   mark: 70
-  content: git을 사용한 버전 관리에 익숙합니다. 기본적인 명령어를 숙지하고 있으며 여러 프로젝트에서 git을 사용하였습니다. <br><br>
-- name: gitLab, gitHub
+  content: 안드로이드 & JAVA 앱 교육 과정을 수료하였고, 안드로이드 스튜디오에서 flutter & Dart를 활용하여 앱을 출시한 경험이 있습니다. <br><br>
+- name: git
   color: color-17
   animation: fadeInRight
-  percent: 80
-  mark: 80
-  content: 학원 프로젝트 및 개인 프로젝트의 경우 gitHub를 사용하고, 회사에서는 gitLab을 사용하였습니다. 둘 다 익숙합니다. <br><br>
-- name: jira
+  percent: 70
+  mark: 70
+  content: git을 사용한 버전 관리에 익숙합니다.<br> 기본적인 명령어를 숙지하고 있으며 여러 프로젝트에서 git을 사용하였습니다. <br><br>
+- name: gitLab, gitHub
   color: color-18
   animation: fadeInLeft
   percent: 80
   mark: 80
-  content: 프로젝트 일정 관리, 이슈 공유 등의 프로그램으로 jira를 사용하였고, 이슈를 분석하여 필요한 데이터를 뽑아낼 수 있습니다. <br><br>
-- name: notion
+  content: 학원 프로젝트 및 개인 프로젝트의 경우 gitHub를 사용하고, 회사에서는 gitLab을 사용하였습니다. 둘 다 익숙합니다. <br><br>
+- name: jira
   color: color-19
   animation: fadeInRight
   percent: 80
   mark: 80
+  content: 프로젝트 일정 관리, 이슈 공유 등의 프로그램으로 jira를 사용하였고, 이슈를 분석하여 필요한 데이터를 뽑아낼 수 있습니다. <br><br>
+- name: notion
+  color: color-20
+  animation: fadeInLeft
+  percent: 80
+  mark: 80
   content: 회사의 공유 자료를 notion으로 만들어 직원들에게 공유한 적이 있으며, notion을 일상에서도 활용하고 있습니다. <br><br>
-# - name: slack
-#   color: color-20
-#   animation: fadeInLeft
-#   percent: 80
-#   mark: 80
-#   content: 업무 협업 툴로 slack을 사용하여 익숙합니다. <br><br>
+- name: slack
+  color: color-21
+  animation: fadeInRight
+  percent: 80
+  mark: 80
+  content: 업무 협업 툴로 slack을 사용하여 익숙합니다. <br><br>
+
 
 
   
