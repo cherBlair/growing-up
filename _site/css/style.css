@@ -1056,7 +1056,7 @@ body.offcanvas {
     bottom: 0;
     left: 0;
     right: 0;
-    background: var(--primary-color);
+    background: var(--color-5);
     opacity: 0;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
