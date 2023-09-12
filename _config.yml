@@ -342,7 +342,7 @@ exp_counters:
 #   speed: 10000
 - name: project
   count: 6
-  speed: 5000
+  speed: 100
 
 
 # Career
@@ -351,7 +351,7 @@ career_header: Work Career
 career_list:
 - name: RS SOLUTIONS
   date: 2020.07 ~ 2023.05
-  content: 이기종 주차 시스템 연동 프로젝트 및 SI 프로젝트 수행
+  content: 이기종 주차 시스템 연동 프로젝트 및 다양한 SI 프로젝트 수행
   color: color-1
   icon: icon-pen2
   animation: fadeInLeft
