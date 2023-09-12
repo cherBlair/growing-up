@@ -342,7 +342,7 @@ exp_counters:
 #   speed: 10000
 - name: project
   count: 8
-  speed: 500
+  speed: 1000
 
 
 # Career
