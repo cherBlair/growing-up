@@ -244,10 +244,10 @@ project_load_more_url: #
 project_my_name: COMPANY PROJECT
 
 project_my: # 형식에 맞추어 항목 추가
-- background_url: images/personal_project1.PNG
+- background_url: images/parkinglot02.jpg
   animation: fadeInLeft
-  name: testtest
-  description: testtest
+  name: RS 이기종 통합 주차관제 솔루션
+  description: 각기 다른 주차 장비를 연동하여 통합 제어 할 수 있는 프로그램 솔루션의 개발 및 유지 보수
   # detail_url: #
   readmore_url: 
 
