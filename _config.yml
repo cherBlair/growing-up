@@ -247,43 +247,43 @@ project_my: # 형식에 맞추어 항목 추가
 - background_url: images/parkinglot02.jpg
   animation: fadeInLeft
   name: RS 이기종 통합 주차관제 솔루션
-  description: 각기 다른 주차 장비를 연동하여 통합 제어 할 수 있는 프로그램 솔루션의 개발 및 유지 보수
+  description: 각기 다른 주차 장비를 연동하여 통합 제어 할 수 있는 프로그램 솔루션의 개발 및 유지 보수 <br> 2020.07 ~ 2023.05
   # detail_url: #
   readmore_url: 
 
-- background_url: images/blog-1.PNG
+- background_url: images/illo01.png
   animation: fadeInLeft
-  name: 개인 프로젝트 어쩌구
-  description: 설명설명 설명 설명
-  detail_url: #
+  name: 아파트 방문예약 앱
+  description: 아파트 방문예약 앱 기획 및 데이터 모델링 <br> 2022.02 ~ 2022.04 
+  # detail_url: #
   readmore_url: #
 
-- background_url: images/personal_project1.PNG
+- background_url: images/saidaTalk01.png
   animation: fadeInLeft
-  name: 
-  description: 
-  detail_url: #
+  name: SaidaTalk
+  description: flutter로 Android와 iOS 채팅앱 기획 및 개발, 유지 보수 <br> 2021.08 ~ 2022.08
+  # detail_url: #
   readmore_url: 
 
-- background_url: images/personal_project1.PNG
+- background_url: images/hahapet01.png
   animation: fadeInLeft
-  name: 
-  description: 
-  detail_url: #
+  name: HAHAPET
+  description: 반려동물 용품 판매 사이트 기획 및 개발, 유지 보수 <br> 2020.10 ~ 2022.08
+  # detail_url: #
   readmore_url:
 
 - background_url: images/personal_project1.PNG
   animation: fadeInLeft
   name: 
   description: 
-  detail_url: #
+  # detail_url: #
   readmore_url: 
 
 - background_url: images/personal_project1.PNG
   animation: fadeInLeft
   name: 
   description: 
-  detail_url: #
+  # detail_url: #
   readmore_url:   
 
 project_team_name: ACADEMY PROJECT
