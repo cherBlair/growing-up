@@ -292,14 +292,14 @@ project_team: # 형식에 맞추어 항목 추가
 - background_url: images/pr_pms.png
   animation: fadeInRight
   name: PMS system
-  description: 팀원들과 함께 Spring 프레임워크를 활용하여 MVC 패턴에 기반한 PMS system 구축
+  description: 팀원들과 함께 Spring 프레임워크를 활용하여 MVC 패턴에 기반한 PMS system 구축 <br> 2020.05 ~ 2020.06
   detail_url: #
   readmore_url: http://www.daum.net
 
 - background_url: images/pr_kid.png
   animation: fadeInRight
   name: 어린이 체험 학습 사이트
-  description: html, javascript, css, Oracle DB를 사용한 동적 화면 구현
+  description: html, javascript, css, Oracle DB를 사용한 동적 화면 구현 <br> 2020.04
   detail_url: #
   # readmore_url: #
 
@@ -325,21 +325,21 @@ exp_services: # 형식에 맞추어 항목 추가
 - name: 매니지먼트
   color: color-1
   icon: icon-bulb
-  content: 6개의 프로젝트 모두 팀장을 맡아 각 팀원들의 능력을 파악하고 업무를 배정하고 관리하였습니다.
+  # content: 6개의 프로젝트 모두 팀장을 맡아 각 팀원들의 능력을 파악하고 업무를 배정하고 관리하였습니다.
 - name: 기술습득
   color: color-2
   icon: icon-home
-  content: 제가 선택한 길, 항상 열정을 다해 공부하며 새로운 기술에 대해 즐거운 마음으로 배웁니다.
+  # content: 제가 선택한 길, 항상 열정을 다해 공부하며 새로운 기술에 대해 즐거운 마음으로 배웁니다.
 - name: 프로젝트
   color: color-3
   icon: icon-phone3
-  content: 다양한 프로젝트를 기획, 진행 해왔기에 업무에 대한 협력과 배분이 익숙합니다. 새로운 프로젝트에 도전적입니다.
+  # content: 다양한 프로젝트를 기획, 진행 해왔기에 업무에 대한 협력과 배분이 익숙합니다. 새로운 프로젝트에 도전적입니다.
 
 exp_counters_bg_img: images/img_bg_4.jpg
 exp_counters:
-- name: Online Class Sales
-  count: 344
-  speed: 10000
+# - name: Online Class Sales
+#   count: 344
+#   speed: 10000
 - name: project
   count: 6
   speed: 5000
@@ -349,15 +349,15 @@ exp_counters:
 carerr_meta: career
 career_header: Work Career
 career_list:
-- name: 과기전통부 산학과제
-  date: 2020.06~2020.11
-  content: PlenOPtic Video에서 객체 tracking 연구  <br> 중대형 공간용 초고해상도 비정형 플렌옵틱 동영상 저작/재생 플랫폼 기술 개발
+- name: RS SOLUTIONS
+  date: 2020.07 ~ 2023.05
+  content: 이기종 주차 시스템 연동 프로젝트 및 SI 프로젝트 수행
   color: color-1
   icon: icon-pen2
   animation: fadeInLeft
-- name: Voice Caddie 산학과제
-  date: 2021.05~2021.10
-  content: 현재 골프치는 사람의 Pose와 Multi-view를 연구하고 있습니다.
+- name: EZEN ACADEMY
+  date: 2019.12 ~ 2020.06
+  content: JAVA, ANDROID 웹 & 앱 개발자 과정 수료
   color: color-2
   icon: icon-pen2
   animation: fadeInRight
@@ -367,48 +367,48 @@ career_list:
 edu_meta: Education
 edu_header: Education
 edu_list:
-- title: KOREA UNIVERSITY ARTIFICIAL INTELLIGENCE MASTER'S DEGREE
-  subtitle: 고려대 인공지능학과 대학원 석사과정
-  date: 20xx.01 - 현재
-  content: 설명설명 설명글 
-- title: HANSUNG UNIVERSITY
-  subtitle: xx대학교 xx과 졸업
-  date: 20xx.03 - 20xx.02
-  content: 나에대한 간단한 설명글 
-- title: YEOUIDO HIGH SCHOOL
-  subtitle: xx고등학교
-  date: 20xx.03 - 20xx.02
-  content: >-
-    설명글
-    설명글
-    설명글
-    설명글
+# - title: KOREA UNIVERSITY ARTIFICIAL INTELLIGENCE MASTER'S DEGREE
+#   subtitle: 고려대 인공지능학과 대학원 석사과정
+#   date: 20xx.01 - 현재
+#   content: 설명설명 설명글 
+# - title: HANSUNG UNIVERSITY
+#   subtitle: xx대학교 xx과 졸업
+#   date: 20xx.03 - 20xx.02
+#   content: 나에대한 간단한 설명글 
+# - title: YEOUIDO HIGH SCHOOL
+#   subtitle: xx고등학교
+#   date: 20xx.03 - 20xx.02
+#   content: >-
+#     설명글
+#     설명글
+#     설명글
+#     설명글
 
 
 # Blog
 blog_meta: self-improvement
-blog_header: BLOG and YOUTUBE
+blog_header: BLOG AND GITHUB
 blog_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
 blog_load_more_url: #
 blog_list:
-- title: 아기치타의 AI 대학원 블로그
-  subtitle: 개발 블로그 운영
-  date: 2021.01
-  content: 여러 분야의 프로그래머들을 보면서 부러워도 하고 좌절도 하였지만 포기하지않고 어느 한분야라도 '장인'이 되겠다는 마음으로 꾸준히 개발 블로그를 운영해오고 있습니다.
-  thumbnail_url: images/blog-1.PNG
-  link: #
-- title: 따라쟁이의 유튜브
-  subtitle: 개발,논문 유튜브 채널 운영
-  date: 2018.04
-  content: 유튜브 채널을 운영하며 배운 것들을 정리해서 영상을 촬영하고 있습니다. 개인적으로 복습을 한번 더 하는 장점이 있습니다.
-  thumbnail_url: images/blog-2.PNG
-  link: #
-- title: 네이버블로그
-  subtitle: 이전 블로그
-  date: 2018.03
-  content: 막 복학을하고 전과했을때 시작했던 첫블로그입니다.
-  thumbnail_url: images/blog-3.PNG
-  link: #
+# - title: 
+#   subtitle: 개발 블로그 운영
+#   date: 2021.01
+#   content: 여러 분야의 프로그래머들을 보면서 부러워도 하고 좌절도 하였지만 포기하지않고 어느 한분야라도 '장인'이 되겠다는 마음으로 꾸준히 개발 블로그를 운영해오고 있습니다.
+#   thumbnail_url: images/blog-1.PNG
+#   link: #
+# - title: 따라쟁이의 유튜브
+#   subtitle: 개발,논문 유튜브 채널 운영
+#   date: 2018.04
+#   content: 유튜브 채널을 운영하며 배운 것들을 정리해서 영상을 촬영하고 있습니다. 개인적으로 복습을 한번 더 하는 장점이 있습니다.
+#   thumbnail_url: images/blog-2.PNG
+#   link: #
+# - title: 네이버블로그
+#   subtitle: 이전 블로그
+#   date: 2018.03
+#   content: 막 복학을하고 전과했을때 시작했던 첫블로그입니다.
+#   thumbnail_url: images/blog-3.PNG
+#   link: #
 
 
 # Contact
