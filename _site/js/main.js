@@ -171,7 +171,6 @@
 
 	// Reflect scrolling in navigation
 	var navActive = function(section) {
-		console.log('###', section);
 		var $el = $('#navbar > ul');
 		$el.find('li').removeClass('active');
 		$el.each(function(){
@@ -184,13 +183,10 @@
 
 		var $section = $('section[data-section]');
 
-		console.log('&&&', $section);
-		
 		$section.waypoint(function(direction) {
 			
 		  	
 		  	if (direction === 'down') {
-				console.log('ddddddddddd')
 		    	navActive($(this.element).data('section'));
 		  	}
 		}, {
@@ -199,7 +195,6 @@
 
 		$section.waypoint(function(direction) {
 		  	if (direction === 'up') {
-				console.log('uuuuuuuuu')
 		    	navActive($(this.element).data('section'));
 		  	}
 		}, {
