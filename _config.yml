@@ -374,7 +374,7 @@ career_list:
   animation: fadeInRight
 - name: EZEN ACADEMY
   date: 2019.12 ~ 2020.06
-  content: JAVA, ANDROID 웹 & 앱 개발자 과정 수료
+  content: Java, Android Web & App 개발자 과정 수료
   color: color-4
   icon: icon-book2
   animation: fadeInRight
