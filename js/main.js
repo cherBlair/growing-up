@@ -148,6 +148,7 @@
 		$('#navbar a:not([class="external"])').click(function(event){
 			var section = $(this).data('nav-section'),
 				navbar = $('#navbar');
+				console.log('section',section)
 
 				if ( $('[data-section="' + section + '"]').length ) {
 			    	$('html, body').animate({
@@ -170,7 +171,7 @@
 
 	// Reflect scrolling in navigation
 	var navActive = function(section) {
-
+		console.log('###', section);
 		var $el = $('#navbar > ul');
 		$el.find('li').removeClass('active');
 		$el.each(function(){
@@ -182,18 +183,23 @@
 	var navigationSection = function() {
 
 		var $section = $('section[data-section]');
+
+		console.log('&&&', $section);
 		
 		$section.waypoint(function(direction) {
+			
 		  	
 		  	if (direction === 'down') {
+				console.log('ddddddddddd')
 		    	navActive($(this.element).data('section'));
 		  	}
 		}, {
-	  		offset: '150px'
+	  		offset: '50%'
 		});
 
 		$section.waypoint(function(direction) {
 		  	if (direction === 'up') {
+				console.log('uuuuuuuuu')
 		    	navActive($(this.element).data('section'));
 		  	}
 		}, {
