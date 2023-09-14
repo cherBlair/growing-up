@@ -380,14 +380,14 @@
 
 					<div class="row row-pt-md">
 						{% for service in site.exp_services %}
-							<div class="col-md-4 text-center animate-box">
-								<div class="services {{ service.color }}">
-									<span class="icon">
+							<div class="col-md-6 animate-box">
+								<div class="services text-center {{ service.color }}">
+									<span class="icon text-center">
 										<i class="{{ service.icon }}"></i>
 									</span>
 									<div class="desc">
-										<h3>{{ service.name }}</h3>
-										<p>{{ service.content }}</p>
+										<h3 class="text-center">{{ service.name }}</h3>
+										<p class="text-left">{{ service.content }}</p>
 									</div>
 								</div>
 							</div>
