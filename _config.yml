@@ -346,7 +346,7 @@ exp_services: # 형식에 맞추어 항목 추가
   icon:  icon-phone3
   content: 다양한 프로젝트를 기획, 진행 해왔기에 업무에 대한 흐름에 익숙합니다. 새로운 프로젝트에 도전적입니다.
 
-exp_counters_bg_img: images/img_bg_4.jpg
+exp_counters_bg_img: images/cat_bg.jpg
 exp_counters:
 # - name: Online Class Sales
 #   count: 344
@@ -366,11 +366,17 @@ career_list:
   color: color-1
   icon: icon-pen2
   animation: fadeInLeft
+- name: 정보처리기사 
+  date: 2021.11
+  content: 정보처리기사 자격증 취득
+  color: color-3
+  icon: icon-pen2
+  animation: fadeInRight
 - name: EZEN ACADEMY
   date: 2019.12 ~ 2020.06
   content: JAVA, ANDROID 웹 & 앱 개발자 과정 수료
-  color: color-3
-  icon: icon-pen2
+  color: color-4
+  icon: icon-book2
   animation: fadeInRight
 
 
