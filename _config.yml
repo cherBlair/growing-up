@@ -384,30 +384,50 @@ career_list:
 edu_meta: Education
 edu_header: Education
 edu_list:
-# - title: KOREA UNIVERSITY ARTIFICIAL INTELLIGENCE MASTER'S DEGREE
-#   subtitle: 고려대 인공지능학과 대학원 석사과정
-#   date: 20xx.01 - 현재
-#   content: 설명설명 설명글 
-# - title: HANSUNG UNIVERSITY
-#   subtitle: xx대학교 xx과 졸업
-#   date: 20xx.03 - 20xx.02
-#   content: 나에대한 간단한 설명글 
-# - title: YEOUIDO HIGH SCHOOL
-#   subtitle: xx고등학교
-#   date: 20xx.03 - 20xx.02
-#   content: >-
-#     설명글
-#     설명글
-#     설명글
-#     설명글
+- title: KOREA NATIONAL OPEN UNIVERSITY
+  subtitle: 한국방송통신대학교 <br> <strong>컴퓨터과학과 졸업</strong>
+  date: 2021.03 - 2023.02
+  content: >
+   <strong>컴퓨터에 대한 이해도를 높이고 프로그래밍을 하는 데 필요한 지식의 기반을 다지기 위해</strong> 컴퓨터과학과에 편입하였습니다. <br>
+   일과 학업을 병행하는 것이 쉽지는 않았지만, 출/퇴근 시간 및 짜투리 시간, 주말을 활용하여 <strong>두마리 토끼를 놓치지 않았습니다.</strong> <br>
+   프로그래밍 언어론, c와 c++, Java, 데이터베이스 시스템, 모바일앱프로그래밍, 클라우드컴퓨팅(AWS) 등을 수강하며 다양한 이론을 배우고 실습을 진행했던 것이 다방면으로 많은 도움이 되었습니다. <br>
+   이론을 배운 것이 정보처리기사 자격증을 취득 하는 데에도 플러스 요인이 되어 <strong>재학중에 자격증을 취득</strong>할 수 있었습니다. <br> 
+   또한 정보통신공사업에 등록된 회사의 입장에서도 저의 전공과 정보처리기사 자격증이 정부사업을 따 오는 데에 도움이 되어 <strong>대표님과 상무님이 자격증의 취득을 많이 축하해주셨는데 저의 밤을 지새운 작은 노력이 회사에 기여</strong>를 한 것 같아 정말 뿌듯했었습니다.
+- title: KANGWON NATIONAL UNIVERSITY
+  subtitle: 강원대학교 경영학과 졸업
+  date: 2008.03 - 2012.02
+  content: > 
+   <strong>경영학을 전공</strong>하였으며, 팀프로젝트를 <strong>다수 수행하였고 팀장</strong>의 역할을 주로 맡아왔습니다. <br> 
+   타 학과 수업도 많이 들었는데 영어영문학과에서 기말 과제로 팀원들과 <strong>영어 연극을 하고 좋은 성적을 거뒀던 것</strong>이 제일 기억에 남습니다. <br> 
+   SIFE KOREA(현 Enactus KOREA)라는 글로벌 비즈니스 리더십 동아리 활동도 활발하게 참여했으며, 
+   2011년에는 <strong>지역 어린이들에게 경제에 대한 개념을 가르치고 직접 플리마켓을 열어 수익을 창출한 프로젝트</strong>의 팀장 자격으로 발표자에 선정되어 학교 대표로 SIFE 국내 대회(NATIONAL COMPETITION)에 나가 <strong>준결승전에 진출</strong>한 경험이 있습니다.
+- title: UIJEONGBU GIRLS HIGH SCHOOL
+  subtitle: 의정부 여자 고등학교
+  date: 2005.03 - 2008.02
+  content: >
+   <strong>RCY(Red Cross Youth)</strong>에 가입하여 동아리 활동을 하며 선후배들과 두루 어울렸습니다. <br>
+   성격이 활발하여 반에서는 <strong>체육 부장</strong>을 맡아왔습니다. <br>
+   학업과 체력 훈련을 병행하며 <strong>육군사관학교 진학</strong>을 꿈꾸었고, 시험 전 날 자율학습을 하던 친구들이 시험 잘 보고 오라며 초콜릿과 편지를 써주었던 것이 많이 기억에 남습니다. <br>
+   <strong>호기심이 많아</strong> 수업이 끝나고도 선생님을 찾아 질문을 하던 학생이었고, 사회/문화 선생님과 한국지리 선생님께서 이런 학구열을 많이 응원해주셨습니다. <br>
+   야간자율학습을 하며 대부분의 시간을 친구들과 함께했고, 많은 추억을 쌓았습니다. <br>
+   고등학교 2학년 체육대회 때 영화 300의 스파르타 용사들이 되어 전력을 다해 <strong>줄다리기와 계주</strong>에서 승리했던 추억이 가장 즐거웠던 기억입니다.
+   
+
+
 
 
 # Blog
 blog_meta: self-improvement
-blog_header: BLOG AND GITHUB
+blog_header: GITHUB #BLOG AND GITHUB
 blog_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
 # blog_load_more_url: #
 blog_list:
+- title: 
+  subtitle: 
+  date: 2023 ~
+  content: 온라인 스터디 및 공부 내용 정리
+  thumbnail_url: images/loader0.gif
+  link: https://github.com/cherBlair
 # - title: 
 #   subtitle: 개발 블로그 운영
 #   date: 2021.01
@@ -419,12 +439,6 @@ blog_list:
 #   date: 2018.04
 #   content: 유튜브 채널을 운영하며 배운 것들을 정리해서 영상을 촬영하고 있습니다. 개인적으로 복습을 한번 더 하는 장점이 있습니다.
 #   thumbnail_url: images/blog-2.PNG
-#   link: #
-# - title: 네이버블로그
-#   subtitle: 이전 블로그
-#   date: 2018.03
-#   content: 막 복학을하고 전과했을때 시작했던 첫블로그입니다.
-#   thumbnail_url: images/blog-3.PNG
 #   link: #
 
 
