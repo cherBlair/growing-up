@@ -277,7 +277,7 @@ project_my: # 형식에 맞추어 항목 추가
   name: HAHAPET
   description: 반려동물 용품 판매 사이트 기획 및 개발, 유지 보수 <br> 2020.10 ~ 2022.08
   # detail_url: #
-  readmore_url:
+  readmore_url: pdf/hahapet.pdf
 
 - background_url: images/pr_cb01.png
   animation: fadeInLeft
