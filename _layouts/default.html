@@ -322,8 +322,11 @@
 											<span>{{ proj.description }}</span>
 											<p class="icon">
 												<!-- <span><a href="#"><i class="icon-share3"></i></a></span> -->
-												<span><a href="{{ proj.detail_url | default: "#" }}" target="_blank" ><i class="icon-eye"></i> 구현 기능 상세보기</a></span>
-												{% if proj.redmore_url != null %} <span><a href="{{ proj.readmore_url | default: "#" }}" target="_blank"><i class="icon-file"></i> 구현 기능 상세보기</a></span> {% endif %}
+												<span><a href="{{ proj.youtube_url | default: "#" }}" target="_blank" ><i class="icon-watch2"></i> youtube </a></span>
+												{% if proj.all_part_url %}	
+													<span><a href="{{ proj.all_part_url | default: "#" }}" target="_blank"><i class="icon-file"></i> 합본 </a></span>
+													<span><a href="{{ proj.my_part_url | default: "#" }}" target="_blank"><i class="icon-file"></i> 담당 파트</a></span>
+												{% endif %}
 											</p>
 										</div>
 									</div>
