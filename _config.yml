@@ -284,14 +284,14 @@ project_my: # 형식에 맞추어 항목 추가
   name: C-bridge SAIDA
   description: K-CULTURE 글로벌 소통 플랫폼. <br> 추가 기능 개발 및 사이트 유지 보수 <br> 2020.10 ~ 2022.08
   # detail_url: #
-  readmore_url: 
+  readmore_url: pdf/bridge.pdf
 
 - background_url: images/pr_live.png
   animation: fadeInLeft
   name: c-bridge SAIDA On-live
   description: 생방송 실시간 송출 서비스. <br> 라이브 스트리밍 구현 보조, 기능 추가 및 유지 보수 <br> 2020.07 ~ 2020.12 
   # detail_url: #
-  readmore_url: 
+  readmore_url: pdf/live.pdf
  
 
 project_team_name: ACADEMY PROJECT
