@@ -270,7 +270,7 @@ project_my: # 형식에 맞추어 항목 추가
   name: SaidaTalk
   description: flutter로 Android와 iOS 채팅앱 기획 및 개발, 유지 보수 <br> 2021.08 ~ 2022.08
   # detail_url: #
-  readmore_url: 
+  readmore_url: pdf/saida-talk.pdf
 
 - background_url: images/pr_hahapet.png
   animation: fadeInLeft
