@@ -300,15 +300,17 @@ project_team: # 형식에 맞추어 항목 추가
   animation: fadeInRight
   name: PMS system
   description: 팀원들과 함께 Spring 프레임워크를 활용하여 MVC 패턴에 기반한 PMS system 구축 <br> 2020.05 ~ 2020.06
-  detail_url: #
-  readmore_url: http://www.daum.net
+  youtube_url: https://youtu.be/DJv8By_KxEM
+  all_part_url: pdf/PMS_all_part.pdf
+  my_part_url: pdf/PMS_mypart.pdf
+  
 
 - background_url: images/pr_kid.png
   animation: fadeInRight
   name: 어린이 체험 학습 사이트
   description: html, javascript, css, Oracle DB를 사용한 동적 화면 구현 <br> 2020.04
-  detail_url: #
-  # readmore_url: #
+  youtube_url: https://youtu.be/wyUvBt7Xho0
+  # detail_url: #
 
 # project_business_name: Business
 # project_business: # 형식에 맞추어 항목 추가
