@@ -261,9 +261,9 @@ project_my: # 형식에 맞추어 항목 추가
 - background_url: images/pr_illo.png
   animation: fadeInLeft
   name: 아파트 방문예약 앱
-  description: 아파트 방문예약 앱 기획 및 데이터 모델링 <br> 2022.02 ~ 2022.04 
+  description: 아파트 방문예약 앱 기획 및 데이터 모델링 <br> 2022.02 ~ 2022.03 
   # detail_url: #
-  readmore_url: #
+  readmore_url: pdf/illo.pdf
 
 - background_url: images/pr_chat.png
   animation: fadeInLeft
