@@ -125,15 +125,6 @@ about_content: >-
  　 🔹집 근처 도서관에서 <strong>다양한 장르의 책</strong>을 빌려 읽습니다. <br><br><br>
 
 
- 
-  개발자로 성장한 지난 3년 간 분위기 좋고 능력이 출중한 분들이 모인 작은 회사에서 개발자 커리어의 첫 발을 들여 운이 좋게도 <strong> FE, BE, 기획 등 다양한 포지션</strong>에서 전반적인 일들을 체득하였습니다. 
- 이후 저의 첫 둥지는 <strong>카카오 모빌리티의 자회사</strong>가 되어 더 큰 품에서 다양한 사람들과 협업을 할 수 있었습니다. <br><br>
-
- <strong>Java와 Spring, JPA</strong>로 백엔드 실무를 다졌고, <strong>Javascript와 html, css, Ajax, JQuery</strong>를 활용하여 프론드엔드쪽도 작업 해왔습니다. 
- <strong>MySql</strong>에 익숙하고 <strong>Tomcat</strong> 서버 구축도 해보았으며, <strong>flutter</strong>를 사용하여 <strong>안드로이드와 iOS 채팅 앱 출시</strong> 경험도 있습니다. 
- 3년 동안 백엔드에서 프론트엔드, 웹에서 앱, 사이트 기획부터 개발 QA, 유지보수 등 전반적인 업무 일선에 있었습니다. <br>
- 프로젝트를 도맡아 신뢰를 바탕으로 현장의 소리부터 회사 내부의 이슈들까지 모두 모아 <strong>더 나은 프로그램을 만들어 나가는 데 앞장서 나가는 개발자</strong> 입니다.
-
 about_services: # 형식에 맞추어 항목 추가, css > icomoon.css 파일 참고
 - icon: icon-code
   name: Java
@@ -145,9 +136,24 @@ about_services: # 형식에 맞추어 항목 추가, css > icomoon.css 파일 �
   name: App
 
 about_box_content: 
-  The secret of getting ahead is getting started.
+  "MOTIVATING EACH OTHER 🙌"
 
 about_box_content_color: rgb(255, 255, 255) 
+
+about_box_sub_content: >-
+ 개발자로 성장한 지난 3년 간 분위기 좋고 능력이 출중한 분들이 모인 작은 회사에서 개발자 커리어의 첫 발을 들여 
+ 운이 좋게도 <strong>백엔드에서 프론트엔드, 웹에서 앱, 사이트 기획부터 개발 QA, 유지보수 등 전반적인 업무 일선</strong>에서 다양한 일들을 체득하였습니다. 
+ 이후 저의 첫 둥지는 <strong>카카오 모빌리티의 자회사</strong>가 되어 더 큰 품에서 다양한 사람들과 협업을 할 수 있었습니다. <br><br>
+
+ - [BE] <strong>Java와 Spring, JPA</strong>로 백엔드 실무를 다짐 <br>
+ - [FE] <strong>Javascript와 html, css, Ajax, JQuery</strong>를 활용하여 반응형 웹 프론드엔드 작업 <br>
+ - [기획] 채팅 앱, 아파트 주차 예약 앱 기획, 기존 운영 사이트에 추가되는 새로운 기능 기획 <br>
+ - [QA] 업데이트 전 테스트 사항을 문서화하여 체크 <br>
+ - [DB] <strong>MySql / MariaDB</strong> <br>
+ - [MIDDLE] <strong>Tomcat</strong> <br>
+ - [APP] <strong>flutter</strong>를 사용하여 <strong>안드로이드와 iOS 채팅 앱 출시 및 유지 보수</strong> <br><br>
+
+ 프로젝트를 도맡아 신뢰를 바탕으로 현장의 소리부터 회사 내부의 이슈들까지 모두 모아 <strong>더 나은 프로그램을 만들어 나가는 데 일조하는 개발자</strong> 입니다.
 
 about_box_button:
   link: #
