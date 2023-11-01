@@ -453,16 +453,23 @@ edu_list:
 
 # Blog
 blog_meta: self-improvement
-blog_header: GITHUB #BLOG AND GITHUB
+blog_header: GITHUB AND BLOG
 blog_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
 # blog_load_more_url: #
 blog_list:
 - title: 
   subtitle: 
   date: 2023 ~
-  content: 온라인 스터디 및 공부 내용 정리
+  content: 🐯 [Github] 온라인 스터디 및 공부 내용 정리
   thumbnail_url: images/github.png  #images/loader0.gif
   link: https://github.com/cherBlair
+- title: 
+  subtitle: 
+  date: 2023 ~
+  content: 📚 [Blog] 필요할 때 찾아보는 사전과 같은 블로그
+  thumbnail_url: images/velog_1.png  #images/loader0.gif
+  link: https://velog.io/@cher_blair
+
 # - title: 
 #   subtitle: 개발 블로그 운영
 #   date: 2021.01
