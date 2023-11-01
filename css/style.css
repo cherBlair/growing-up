@@ -598,6 +598,8 @@ body.offcanvas {
     background: var(--color-4); }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-5 {
     background: var(--color-5); }
+  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-13 {
+    background: var(--color-13); }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-none {
     background: #fff;
     width: 20px;

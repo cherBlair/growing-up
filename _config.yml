@@ -382,19 +382,25 @@ exp_counters:
 #   speed: 10000
 - name: project
   count: 8
-  speed: 9000
+  speed: 5000
 
 
 # Career
 carerr_meta: career
 career_header: Work Career
 career_list:
+- name: 우아한 테크코스
+  date: 2023.10 ~
+  content: 우아한 형제들에서 주관하는 실전형 프로그래밍 과제 수행
+  color: color-13
+  icon: icon-server
+  animation: fadeInRight
 - name: RS SOLUTIONS
   date: 2020.07 ~ 2023.05
   content: 이기종 주차 시스템 연동 프로젝트 및 다양한 SI 프로젝트 수행
   color: color-1
-  icon: icon-pen2
-  animation: fadeInLeft
+  icon: icon-monitor
+  animation: fadeInRight
 - name: 정보처리기사 
   date: 2021.11
   content: 정보처리기사 자격증 취득
