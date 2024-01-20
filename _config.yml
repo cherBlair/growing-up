@@ -236,7 +236,7 @@ tech_list: # 형식에 맞추어 항목 추가
   animation: fadeInRight
   percent: 70
   mark: 70
-  content: git을 사용한 버전 관리에 익숙합니다.<br> 기본적인 명령어를 숙지하고 있으며 여러 프로젝트에서 git을 사용하였습니다. <br><br>
+  content: git을 사용한 버전 관리에 익숙합니다.<br> 기본적인 명령어를 숙지하고 있으며 모든 프로젝트에서 git을 사용하였습니다. <br><br>
 - name: gitLab, gitHub
   color: color-18
   animation: fadeInLeft
