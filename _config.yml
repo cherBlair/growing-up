@@ -265,7 +265,7 @@ tech_list: # 형식에 맞추어 항목 추가
 
 
   
-tech_desc: 강점은 더 강화하고 부족한 부분은 채우기 위해 직접 부딪혀보며 성장하고 있습니다. <strong>JAVA, Spring, JPA, AWS, docker, React, nodeJS, algorithm</strong>등을 계속해서 학습할 계획입니다. 
+tech_desc: 강점은 더 강화하고 부족한 부분은 채우기 위해 직접 부딪혀보며 성장하고 있습니다. <strong>java, Spring, JPA, AWS, docker, React, nodeJS, algorithm</strong>등을 계속해서 학습할 계획입니다. 
 
 
 # Project
@@ -389,8 +389,13 @@ exp_counters:
 carerr_meta: career
 career_header: Work Career
 career_list:
+- name: (주)나온소프트
+  date: 2024.01 ~
+  content: 자사 솔루션인 그룹웨어 커스터마이징
+  color: color-8
+  icon: icon-calendar3
 - name: 우아한 테크코스
-  date: 2023.10 ~
+  date: 2023.10 ~ 2023.12
   content: 우아한 형제들에서 주관하는 실전형 프로그래밍 과제 수행
   color: color-13
   icon: icon-server
