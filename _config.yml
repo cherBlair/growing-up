@@ -472,7 +472,7 @@ blog_list:
   subtitle: 
   date: 2023 ~
   content: 📚 [Blog] 필요할 때 찾아보는 사전과 같은 블로그
-  thumbnail_url: images/velog_1.png  #images/loader0.gif
+  thumbnail_url: images/velog_2.png  #images/loader0.gif
   link: https://velog.io/@cher_blair
 
 # - title: 
