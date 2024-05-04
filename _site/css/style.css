@@ -925,6 +925,36 @@ body.offcanvas {
       background: var(--color-20); }
     .progress-bar.color-20 span {
       color: var(--color-20); }
+  .progress-bar.color-21 {
+    background: var(--color-21); }
+    .progress-bar.color-21:after {
+      background: var(--color-21); }
+    .progress-bar.color-21 span {
+      color: var(--color-21); }
+  .progress-bar.color-22 {
+    background: var(--color-22); }
+    .progress-bar.color-22:after {
+      background: var(--color-22); }
+    .progress-bar.color-22 span {
+      color: var(--color-22); }
+  .progress-bar.color-23 {
+    background: var(--color-23); }
+    .progress-bar.color-23:after {
+      background: var(--color-23); }
+    .progress-bar.color-23 span {
+      color: var(--color-23); }
+  .progress-bar.color-24 {
+    background: var(--color-21); }
+    .progress-bar.color-24:after {
+      background: var(--color-21); }
+    .progress-bar.color-24 span {
+      color: var(--color-21); }
+  .progress-bar.color-25 {
+    background: var(--color-25); }
+    .progress-bar.color-25:after {
+      background: var(--color-25); }
+    .progress-bar.color-25 span {
+      color: var(--color-25); }
 
 .colorlib-feature {
   text-align: left;
