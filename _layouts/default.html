@@ -50,6 +50,11 @@
 			--color-18: #{{site.color_18}};
 			--color-19: #{{site.color_19}};
 			--color-20: #{{site.color_20}};
+			--color-21: #{{site.color_21}};
+			--color-22: #{{site.color_22}};
+			--color-23: #{{site.color_23}};
+			--color-24: #{{site.color_24}};
+			--color-25: #{{site.color_25}};
 		}
 	</style>
 
@@ -299,7 +304,9 @@
 											<p class="icon">
 												<!-- <span><a href="#"><i class="icon-share3"></i></a></span> -->
 												<!-- <span><a href="{{ proj.detail_url | default: "#" }}" target="_blank" ><i class="icon-eye"></i> detail</a></span> -->
-												<span><a href="{{ proj.readmore_url | default: "#" }}" target="_blank"><i class="icon-eye"></i> 구현 기능 상세보기</a></span>
+												{% if proj.readmore_url %}	
+													<span><a href="{{ proj.readmore_url | default: "#" }}" target="_blank"><i class="icon-eye"></i> 구현 기능 상세보기</a></span>
+												{% endif %}
 											</p>
 										</div>
 									</div>
