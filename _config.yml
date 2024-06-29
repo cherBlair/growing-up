@@ -104,12 +104,12 @@ about_header: >-
 about_introduce: >-
   "새로운 도전을 즐기는, 호기심 많은 개발자 🧐"
 about_content: >-
- 안녕하세요. <strong>Java 개발자 김하나(Blair)</strong> 입니다.<br><br>
+ 안녕하세요. <strong>꾸준히 성장하는 개발자 김하나</strong> 입니다.<br><br>
 
  ✅ <strong> 도전과 성취가 있는 삶을 지향합니다. </strong><br>
  　 경영학을 전공한 저에게, 개발자로의 진로는 또 다른 세계로의 여행이었습니다.
   <strong>Java와 Android</strong>를 배워 개발자의 세상에 첫 발을 내딛었고, 이후 <strong>서버 개발과 프론트 작업, 기획, Flutter를 활용한 어플리케이션 개발</strong> 등 새로운 미션을 수행하며 성장해왔습니다.
-  이론과 실무를 함께하며 시너지를 높이기 위해 업무와 병행하여 <strong>컴퓨터 과학과에 편입/졸업</strong> 하였으며 <strong>정보처리기사 자격증</strong>을 취득하였습니다.<br><br>
+  이론과 실무를 함께하며 시너지를 높이기 위해 업무와 병행하여 <strong>컴퓨터 과학과에 편입/졸업</strong> 하였으며 <strong>정보처리기사 자격증 및 SQL 개발자 자격증</strong>을 취득하였습니다.<br><br>
 
  ✅ <strong> 호기심이 많고 행동 지향적 입니다. </strong><br>
  　 첫 회사는 주차 솔루션을 가지고 있었습니다. 언젠가 마트 POS기에서 차량 할인 등록 시 반복적으로 주차 할인권이 적용되지 않는다는 문의가 들어왔습니다. 
@@ -117,12 +117,15 @@ about_content: >-
   그 과정에서 <strong>현장의 담당자와 소통</strong>하였고, 반복되는 문제에 대한 불만을 잠재울 수 있었습니다. 또한 이를 계기로 동일 마트 체인점에 설치된 프로그램을 모두 업데이트 하여 <strong>재발을 방지</strong>하였습니다.
   왜? 머릿 속에 물음표가 떠오르면 <strong>직접 몸으로 부딪혀 궁금증을 해결</strong>해왔고, 이러한 호기심이 동력이 되어 한층 더 성장할 수 있었습니다.<br><br>
 
+ ✅ <strong> 일의 우선순위를 정하고, 효율적으로 처리합니다. </strong><br>
+ 　 모든 일에서 <strong>소통을 최우선</strong>으로 둡니다. 대화 없이는 아무 것도 해결되지 않는다고 생각합니다. 
+  필요하다면 그 누구와도 소통하고 의견을 조율할 수 있습니다. 우선순위가 정해지면, 이를 기반으로 항상 <strong>구글시트에 WBS를 작성하고 NOTION 툴을 활용하여 업무의 흐름을 기록</strong>합니다. 
+  일의 시작부터 마무리까지 끊임 없이 소통합니다.<br><br>
+
  ✅ <strong> 지속적으로 나아갑니다. </strong><br>
  　 🔹꾸준히 <strong>학습</strong>합니다. 인프런과 패스트캠퍼스를 통해 Spring과 Jpa, Java, Algorithm을 틈틈히 학습하고 있습니다. <br>
- 　 🔹온라인에서 만난 사람들과 함께 <strong>알고리즘 스터디</strong>를 진행하며 주 3회 문제를 풀고 있습니다. <br> 
- 　 🔹<strong>영어 회화</strong> 어플리케이션을 통해 주 2회 원어민과 대화하며 꾸준히 감을 익히고 있습니다. <br>
  　 🔹<strong>체력을 단련</strong>합니다. 달리기와 테니스, 수영을 즐깁니다. <br>
- 　 🔹집 근처 도서관에서 <strong>다양한 장르의 책</strong>을 빌려 읽습니다. <br><br><br>
+ 　 🔹회사 및 집 근처 도서관에서 <strong>다양한 장르의 책</strong>을 빌려 읽습니다. <br><br><br>
 
 
 about_services: # 형식에 맞추어 항목 추가, css > icomoon.css 파일 참고
@@ -142,14 +145,13 @@ about_box_content_color: rgb(255, 255, 255)
 
 about_box_sub_content: >-
  &nbsp; 분위기 좋고 능력이 출중한 분들이 모인 작은 회사에서 개발자 커리어의 첫 발을 들여 
- 운이 좋게도 <strong>백엔드에서 프론트엔드, 웹에서 앱, 사이트 기획부터 개발 QA, 유지보수 등 전반적인 업무 일선</strong>에서 다양한 일들을 체득하였습니다. 
- 이후 저의 첫 둥지는 <strong>카카오 모빌리티의 자회사</strong>가 되어 더 큰 품에서 다양한 사람들과 협업을 할 수 있었습니다. <br><br>
+ 운이 좋게도 <strong>백엔드에서 프론트엔드, 웹에서 앱, 사이트 기획부터 개발 QA, 유지보수 등 전반적인 업무 일선</strong>에서 다양한 일들을 체득하였습니다. <br><br>
 
  - [BE] <strong>Java와 Spring, JPA</strong>로 백엔드 실무를 다짐 <br>
  - [FE] <strong>Javascript와 html, css, Ajax, JQuery, mustache template, site mesh</strong>를 활용하여 반응형 웹 프론드엔드 작업 <br>
  - [기획] 채팅 앱, 아파트 주차 예약 앱 기획, 기존 운영 사이트에 추가되는 새로운 기능 기획 <br>
  - [QA] 업데이트 전 테스트 사항을 문서화하여 체크 <br>
- - [DB] <strong>MySql / MariaDB</strong> <br>
+ - [DB] <strong>MySql / MariaDB / ORACLE</strong> <br>
  - [MIDDLE] <strong>Tomcat</strong> <br>
  - [APP] <strong>flutter</strong>를 사용하여 <strong>안드로이드와 iOS 채팅 앱 출시 및 유지 보수</strong> <br><br>
 
@@ -200,7 +202,7 @@ tech_list: # 형식에 맞추어 항목 추가
   animation: fadeInRight
   percent: 30
   mark: 30
-  content: 깃랩의 프로젝트를 젠킨스를 이용하여 빌드, 배포하였습니다.<br> 배포 후 리눅스 서버에서 명령어를 통해 프로젝트를 종료하고 재실행, 로그를 확인하는 작업을 하였습니다. <br><br>
+  content: 깃랩의 프로젝트를 젠킨스를 이용하여 빌드, 배포하였습니다.<br> 리눅스 서버에서 명령어를 통해 프로젝트를 종료하고 재실행, 로그를 확인하는 작업을 할 수 있습니다. <br><br>
 - name: Docker
   color: color-12
   animation: fadeInLeft
@@ -296,14 +298,14 @@ project_my: # 형식에 맞추어 항목 추가
   name: 그룹웨어
   description: One-Stop 통합 업무 플랫폼.<br> java 기반의 그룹웨어 솔루션 커스터마이징 <br> 2024.01 ~
   # detail_url: #
-  #readmore_url: #
+  readmore_url: pdf/naon.pdf
 
 - background_url: images/pr_rs.png
   animation: fadeInLeft
   name: RS 이기종 통합 주차관제 솔루션
   description: 각기 다른 주차 장비를 연동하여 통합 제어 할 수 있는 프로그램 솔루션의 개발 및 유지 보수 <br> 2020.07 ~ 2023.05
   # detail_url: #
-  readmore_url: pdf/rs-parking.pdf
+  readmore_url: pdf/rs-parking(2).pdf
 
 - background_url: images/pr_illo.png
   animation: fadeInLeft
