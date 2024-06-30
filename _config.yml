@@ -305,7 +305,7 @@ project_my: # 형식에 맞추어 항목 추가
   name: RS 이기종 통합 주차관제 솔루션
   description: 각기 다른 주차 장비를 연동하여 통합 제어 할 수 있는 프로그램 솔루션의 개발 및 유지 보수 <br> 2020.07 ~ 2023.05
   # detail_url: #
-  readmore_url: pdf/rs-parking(2).pdf
+  readmore_url: pdf/rs-parking.pdf
 
 - background_url: images/pr_illo.png
   animation: fadeInLeft
