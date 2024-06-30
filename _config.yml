@@ -403,7 +403,7 @@ exp_counters:
 #   count: 344
 #   speed: 10000
 - name: project
-  count: 9
+  count: 11
   speed: 5000
 
 
