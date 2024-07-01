@@ -196,7 +196,7 @@ tech_list: # 형식에 맞추어 항목 추가
   animation: fadeInLeft
   percent: 70
   mark: 70
-  content: 실무에서 반복적인 CRUD SQL을 JPA로 처리하였으며, Join, many To one의 관계 등을 다루어보았습니다.<br> JPA로 처리하지 못하는 복잡한 쿼리의 경우에는 native query를 사용하여 작업 하였습니다.<br><br>
+  content: 실무에서 반복적인 CRUD SQL을 JPA로 처리하였으며, Join, many To one의 관계 등을 다루어보았습니다. <br><br>
 - name: Jenkins
   color: color-11
   animation: fadeInRight
